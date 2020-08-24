@@ -8,4 +8,5 @@ function largestSubarraySum(arr){
       largestSum = sum;
     }
   }
+  return largestSum;
 }
